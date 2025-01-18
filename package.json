@@ -2,11 +2,12 @@
   "name": "react1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Abanoubsoliman.github.io/react1-project",
+  "homepage": "https://Abanoubsoliman.github.io/React",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
