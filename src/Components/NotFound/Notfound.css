@@ -1,0 +1,25 @@
+.page-not-found {
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .page-not-found h1 {
+    font-size: 100px;
+    color: #ff0000;
+  }
+  
+  .page-not-found p {
+    font-size: 20px;
+  }
+  
+  .home-link {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .home-link:hover {
+    text-decoration: underline;
+  }
+  
