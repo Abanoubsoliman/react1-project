@@ -2,7 +2,7 @@
   "name": "react1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Abanoubsoliman.github.io/React",
+  "homepage": "https://Abanoubsoliman.github.io/react1-project",
   "type": "module",
   "scripts": {
     "dev": "vite",
